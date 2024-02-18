@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ogironr
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning to be a unicorn
+- 🌱 I’m currently learning to be a unicorn 🦄
 
 
 <!---
