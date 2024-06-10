@@ -1,3 +1,5 @@
+![Fondo](https://media.licdn.com/dms/image/C4E16AQFUIN3mTshw9w/profile-displaybackgroundimage-shrink_350_1400/0/1660604197193?e=1723680000&v=beta&t=FQXnezBaiYbwPNC1TokqqJfX_EpYMxMEuc8__2zWAP8)
+
 # ¡Hola! Soy @Ogironr 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogironr/)
