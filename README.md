@@ -23,17 +23,9 @@ Soy un apasionado de la analítica de datos, aplicar técnicas estadísticas y a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## Proyectos Destacados
-
-### [Nombre del Proyecto 1](https://github.com/tu-perfil/nombre-del-proyecto-1)
-Descripción breve del proyecto 1.
-
-### [Nombre del Proyecto 2](https://github.com/tu-perfil/nombre-del-proyecto-2)
-Descripción breve del proyecto 2.
-
 ## Contacto
 
-Puedes contactarme a través de [Telegram](https://t.me/@Oagr18) o enviarme un correo a ogdatascientist@gmail.com.
+Puedes contactarme a través de [Telegram](https://web.telegram.org/k/) o enviarme un correo a ogdatascientist@gmail.com.
 
 ---
 
