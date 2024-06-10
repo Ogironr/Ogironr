@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Ogironr
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning to be a unicorn 🦄
-
-
-
 # ¡Hola! Soy @Ogironr 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ogironr/)
@@ -14,6 +8,9 @@
 ## Sobre mí
 
 Soy un apasionado de la analítica de datos, aplicar técnicas estadísticas y algoritmos de machine learning para retar a los modelos y generar insight que ayuden a solucionar los problemas de casos de negocio. Disfruto trabajar en equipo y comunicar resultados basados en datos. Soy experto sobre el uso de herramientas en big data, técnicas de modelado y en la traducción de problemas de negocios a modelos analítico. Sigo desarrollando nuevas capacidades como por ejemplo desplegar soluciones analíticas con IA para facilitar las tareas de nuestros usuarios finales. Considero que el mejor aprendizaje se hace en la cancha.
+
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning to be a unicorn 🦄
 
 ## Tecnologías y Herramientas
 
