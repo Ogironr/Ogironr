@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-Soy un [tu profesión o descripción corta]. Apasionado por [tus intereses o áreas de especialización]. 
+Soy un apasionado de la analítica de datos, aplicar técnicas estadísticas y algoritmos de machine learning para retar a los modelos y generar insight que ayuden a solucionar los problemas de casos de negocio. Disfruto trabajar en equipo y comunicar resultados basados en datos. Soy experto sobre el uso de herramientas en big data, técnicas de modelado y en la traducción de problemas de negocios a modelos analítico. Sigo desarrollando nuevas capacidades como por ejemplo desplegar soluciones analíticas con IA para facilitar las tareas de nuestros usuarios finales. Considero que el mejor aprendizaje se hace en la cancha.
 
 ## Tecnologías y Herramientas
 
@@ -33,7 +33,7 @@ Descripción breve del proyecto 2.
 
 ## Contacto
 
-Puedes contactarme a través de [LinkedIn](https://www.linkedin.com/in/tu-perfil) o enviarme un correo a [tu-email@example.com].
+Puedes contactarme a través de [Telegram](@Oagr18) o enviarme un correo a ogdatascientist@gmail.com.
 
 ---
 
