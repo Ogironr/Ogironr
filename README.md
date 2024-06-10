@@ -22,6 +22,17 @@ Soy un apasionado de la analítica de datos, aplicar técnicas estadísticas y a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+## Te dejo algunos shorts
+
+<a href="https://www.youtube.com/shorts/ck4e2dPhDBc">
+    <img src="https://i.ytimg.com/vi/NzfqpOWJ8ZQ/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLB9v_d9iBVBmTl1yrMksv_K3XtO6g" alt="Skills Data Scientist" width="200">
+</a>
+<a href="https://www.youtube.com/shorts/NzfqpOWJ8ZQ">
+    <img src="https://i.ytimg.com/vi/ck4e2dPhDBc/oar2.jpg?sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLANkOgUdxBTgp9w89Saj6hMCFPV_Q" alt="¡De la programación a la IA Generativa!" width="200">
+</a>
+
+
+
 ## Contacto
 
 Puedes contactarme a través de Telegram como @Oagr18
