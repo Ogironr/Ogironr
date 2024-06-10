@@ -24,7 +24,7 @@ Soy un apasionado de la analítica de datos, aplicar técnicas estadísticas y a
 
 ## Contacto
 
-Puedes contactarme a través de [Telegram](https://web.telegram.org/k/) o enviarme un correo a ogdatascientist@gmail.com.
+Puedes contactarme a través de Telegram como @Oagr18
 
 ---
 
